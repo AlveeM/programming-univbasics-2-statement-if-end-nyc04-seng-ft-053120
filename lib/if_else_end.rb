@@ -5,6 +5,6 @@ is_even? = (current_second % 2 == 0)
 
 if is_even?
   puts "Even!"
-else:
+else
   puts"Odd!"
 end
